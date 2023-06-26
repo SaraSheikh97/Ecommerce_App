@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840040713834",
+    "project_id": "ma-ecom-project",
+    "storage_bucket": "ma-ecom-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840040713834:android:b35f923667fe2d69000413",
+        "android_client_info": {
+          "package_name": "com.layouts.maecomproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIKazJU9z7GdI2hCvaKvADcYIm-qUgr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
